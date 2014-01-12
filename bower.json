@@ -10,10 +10,16 @@
     "angular-resource": "~1.2.0",
     "angular-cookies": "~1.2.0",
     "angular-sanitize": "~1.2.0",
-    "angular-route": "~1.2.0"
+    "angular-route": "~1.2.0",
+    "angular-postman": "*",
+    "angular-animate": "~1.2.8",
+    "pines-notify": "~1.2.0"
   },
   "devDependencies": {
     "angular-mocks": "~1.2.0",
     "angular-scenario": "~1.2.0"
+  },
+  "resolutions": {
+    "angular": "1.2.4"
   }
 }
